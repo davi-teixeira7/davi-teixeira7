@@ -1,9 +1,10 @@
+# Hi 👋, I'm Davi Pinheiro Teixeira
+
 <div>
     <img align="right" src="./gifs/urahara.gif" alt="GIF" width="200"/>
     <div>
-        <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
         <h3>Brazilian Software Engineer Student</h3>
----
+        <p>
         💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
         📫 How to reach me: <strong>davitx2005@gmail.com</strong><br>
         ⚡ Fun fact: <strong>My favorite number is 7</strong>
@@ -47,6 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -59,11 +61,13 @@
 ## 🧰 Others
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-teixeira7&show_icons=true&theme=default&hide_border=true)
-![Davi Streak](https://github-readme-streak-stats.herokuapp.com/?user=davi-teixeira7&theme=default&hide_border=true)
+![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-teixeira7&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
+
+![Davi Streak](https://github-readme-streak-stats.herokuapp.com/?user=davi-teixeira7&theme=dark&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-teixeira7&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=58a6ff)

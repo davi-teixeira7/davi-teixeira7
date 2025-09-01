@@ -1,4 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
+    <img align="right" src="./gifs/urahara.gif" alt="GIF" width="200"/>
     <div>
         <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
         <h3>Brazilian Software Engineer Student</h3>
@@ -8,7 +9,6 @@
         ⚡ Fun fact: <strong>My favorite number is 7</strong>
         </p>
     </div>
-    <img src="./gifs/urahara.gif" alt="GIF" width="200"/>
 </div>
 
 ---

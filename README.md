@@ -3,7 +3,7 @@
     <div>
         <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
         <h3>Brazilian Software Engineer Student</h3>
-        <p>
+---
         💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
         📫 How to reach me: <strong>davitx2005@gmail.com</strong><br>
         ⚡ Fun fact: <strong>My favorite number is 7</strong>

@@ -1,12 +1,12 @@
 <div>
     <img align="right" src="./gifs/urahara.gif" alt="GIF" width="200"/>
     <div>
-        <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
+        <h1 >Hi 👋, I'm Davi Pinheiro Teixeira</h1>
         <h3>Brazilian Software Engineer Student</h3>
         <p>
-        💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
-        📫 How to reach me: <strong>davitx2005@gmail.com</strong><br>
-        ⚡ Fun fact: <strong>My favorite number is 7</strong>
+          💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
+          📫 How to reach me: <strong>davitx2005@gmail.com</strong><br>
+          ⚡ Fun fact: <strong>My favorite number is 7</strong>
         </p>
     </div>
 </div>
@@ -70,7 +70,5 @@
 ![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-teixeira7&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
 
 ![Davi Streak](https://github-readme-streak-stats.herokuapp.com/?user=davi-teixeira7&theme=dark&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-teixeira7&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=58a6ff)
 
 </div>

@@ -1,7 +1,7 @@
 <div>
     <img align="right" src="./gifs/urahara.gif" alt="GIF" width="200"/>
     <div>
-        <h1 >Hi 👋, I'm Davi Pinheiro Teixeira</h1>
+        <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
         <h3>Brazilian Software Engineer Student</h3>
         <p>
           💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
@@ -19,8 +19,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -57,6 +55,8 @@
 ## 🧰 Others
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 

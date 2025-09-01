@@ -1,6 +1,10 @@
 # Hi 👋, I'm Davi Pinheiro Teixeira
 ### Brazilian Software Engineer Student
 
+<p align="right">
+  <img src="./gifs/urahara.gif" alt="Urahara GIF" width="250"/>
+</p>
+
 💻 **Full Stack Developer - Fábrica de Software ULBRA Palmas**  
 📫 How to reach me: **davitx2005@gmail.com**  
 ⚡ Fun fact: **My favorite number is 7**

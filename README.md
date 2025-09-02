@@ -1,17 +1,20 @@
-<div>
-    <img align="right" src="./gifs/urahara.gif" alt="GIF" width="200"/>
-    <div>
-        <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
-        <h3>Brazilian Software Engineer Student</h3>
-        <p>
-          💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
-          📫 How to reach me: <strong>davitx2005@gmail.com</strong><br>
-          ⚡ Fun fact: <strong>My favorite number is 7</strong>
-        </p>
-    </div>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <h1>Hi 👋, I'm Davi Pinheiro Teixeira</h1>
+                <h3>Brazilian Software Engineer Student</h3>
+                <br>
+                💻 <strong>Full Stack Developer - Fábrica de Software ULBRA Palmas</strong><br>
+                📫 How to reach me: <strong>davitx2005@gmail.com</strong><br>
+                ⚡ Fun fact: <strong>My favorite number is 7</strong>
+            </td>
+            <td>
+                <img src="./gifs/urahara.gif" alt="GIF" width="200"/>
+            </td>
+        </tr>
+    </table>
 </div>
-
----
 
 ## 🛠️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

